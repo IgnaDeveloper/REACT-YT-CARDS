@@ -1,0 +1,34 @@
+.container-testimony {
+  width: 1170px;
+  height: 368px;
+  margin: 10px 10px 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: black;
+  border-radius: 15px;
+}
+.image-testimony {
+  height: 100%;
+  width: auto;
+  border-radius: 15px;
+}
+.container-text-testimony {
+  text-align: center;
+  padding: 40px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  line-height: 1.5rem;
+}
+.name-testimony {
+  font-size: 2rem;
+}
+.work-testimony {
+  font-size: 1.4rem;
+  font-style: italic;
+  margin: 15px 0;
+}
+.text-testimony {
+  font-size: 1.1rem;
+  text-align: justify;
+}
